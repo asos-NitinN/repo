@@ -1,0 +1,6 @@
+G:\VS Project\Ebox\bin\Debug\Ebox.exe.config
+G:\VS Project\Ebox\obj\Debug\Ebox.csprojResolveAssemblyReference.cache
+G:\VS Project\Ebox\bin\Debug\Ebox.exe
+G:\VS Project\Ebox\bin\Debug\Ebox.pdb
+G:\VS Project\Ebox\obj\Debug\Ebox.exe
+G:\VS Project\Ebox\obj\Debug\Ebox.pdb
